@@ -1,4 +1,4 @@
-This is an example on how to integrate knovajs lib with angular. 
+This is an example on how to integrate 3rd party lib named knovajs lib with angular. 
 
 Actually, its quite easy but I didn't find any good solution on internet, so I just use the typescript way to do it.
 
